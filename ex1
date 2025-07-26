@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>My love program</title>
+</head>
+<body background="img\IMG-20241222-WA0002.jpg" >
+    <header class="header">
+        <nav class="navbar">
+            <ul class="ulli">
+               <li><a href="#">First Time😍</a></li>
+               <li><a href="#">Garba💃</a></li>
+               <li><a href="#">Saree🥻</a></li>
+               <li><a href="#">Western 👗</a></li>
+               <li><a href="#">Cafe 🏚️</a></li>
+               <li><a href="#">bike driving🚲</a></li>
+               <li><a href="#">polo forest🥰</a></li>
+               <li><a href="#">sis's enegagment</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+
+        </section>
+    </main>
+</body>
+</html>
